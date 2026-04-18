@@ -1,0 +1,9 @@
+$primary: #2563eb;
+$radius: 12px;
+
+.demo-box{
+background:$primary;
+color:white;
+padding:20px;
+border-radius:$radius;
+}
